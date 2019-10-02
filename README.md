@@ -12,6 +12,6 @@
   - Run all automated tests
 
 ### Setup steps
-Step 1:
-[!Choose pipeline settings](https://github.com/gpadmapriya/ruby-lab-42/blob/master/pipeline-settings.png)
+- Step 1:
+![Choose pipeline settings](https://github.com/gpadmapriya/ruby-lab-42/blob/master/pipeline-settings.png)
 
