@@ -46,3 +46,4 @@
 - Steven Grant
 - [Setup rails app for Codepipeline](https://scoutapm.com/blog/setting-up-a-rails-app-for-codebuild-codedeploy-and-codepipeline-on-aws)
 - [Create a pipeline in Codepipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create.html)
+- [Publify App Repo](https://github.com/cf-group-two/publify/tree/demo)
