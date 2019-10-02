@@ -13,4 +13,5 @@
 
 ### Setup steps
 Step 1:
-[Choose pipeline settings]()
+[!Choose pipeline settings](https://github.com/gpadmapriya/ruby-lab-42/blob/master/pipeline-settings.png)
+
