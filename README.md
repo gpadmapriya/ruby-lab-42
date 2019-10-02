@@ -13,24 +13,31 @@
 
 ### Setup steps
 - Step 1: Choose pipeline settings
+
 ![Choose pipeline settings](https://github.com/gpadmapriya/ruby-lab-42/blob/master/pipeline-settings.png)
 
 - Step 2: Add service role
+
 ![Add service role](https://github.com/gpadmapriya/ruby-lab-42/blob/master/service-role.png)
 
 - Step 3: Add source stage
+
 ![Add source stage](https://github.com/gpadmapriya/ruby-lab-42/blob/master/source-stage.png)
 
 - Step 4: Build spec
+
 ![Build spec](https://github.com/gpadmapriya/ruby-lab-42/blob/master/buildspec-yml.png)
  
 - Step 5: Add Deploy stage
+
 ![Add Deploy stage](https://github.com/gpadmapriya/ruby-lab-42/blob/master/deploy-stage.png)
 
 - Step 6: Set up Elastic Bean environment
+
 ![Set up Elastic Bean environment](https://github.com/gpadmapriya/ruby-lab-42/blob/master/eb-deploy.png)
 
 - Failed Build
+
 ![Build Fail](https://github.com/gpadmapriya/ruby-lab-42/blob/master/build-fail.png)
 
 ### Pain points
