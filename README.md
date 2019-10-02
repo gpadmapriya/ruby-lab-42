@@ -12,7 +12,7 @@
   - Run all automated tests
 
 ### Setup steps
-- Step 1:
+- Step 1: Choose pipeline settings
 ![Choose pipeline settings](https://github.com/gpadmapriya/ruby-lab-42/blob/master/pipeline-settings.png)
 
 - Step 2:
@@ -43,5 +43,5 @@
 - Padma Ganapathi
 - Trevor Dobson
 - Steven Grant
-[Setup rails app for Codepipeline](https://scoutapm.com/blog/setting-up-a-rails-app-for-codebuild-codedeploy-and-codepipeline-on-aws)
-[Create a pipeline in Codepipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create.html)
+- [Setup rails app for Codepipeline](https://scoutapm.com/blog/setting-up-a-rails-app-for-codebuild-codedeploy-and-codepipeline-on-aws)
+- [Create a pipeline in Codepipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create.html)
